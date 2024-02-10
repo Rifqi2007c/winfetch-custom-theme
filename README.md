@@ -7,8 +7,11 @@ inspired by https://github.com/AB10110F/Winfetch-Themes
 ## Hello
 ![alt text](https://github.com/Rifqi2007c/winfetch-rifqi-theme/blob/main/picture/Screenshot%202024-02-04%20184819.png)
 
-##Girl2
-![alt text](
+## Girl2
+![alt text](https://github.com/Rifqi2007c/winfetch-custom-theme/tree/main/picture)
+
+## Flamingo
+![alt text](https://github.com/Rifqi2007c/winfetch-custom-theme/blob/main/picture/photo_2024-02-11_07-11-13.jpg)
 
 ## Requirements
 >[Winfetch](https://github.com/lptstr/winfetch)
